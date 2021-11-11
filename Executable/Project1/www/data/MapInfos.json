@@ -1,10 +1,10 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Filed Map","order":1,"parentId":0,"scrollX":1404,"scrollY":798.8571428571428},
-{"id":2,"expanded":true,"name":"Normal Town","order":2,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1121.142857142857},
-{"id":3,"expanded":false,"name":"Stone Cave","order":5,"parentId":0,"scrollX":1404,"scrollY":798.8571428571428},
+{"id":1,"expanded":false,"name":"Filed Map","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"Normal Town","order":2,"parentId":0,"scrollX":1622,"scrollY":988},
+{"id":3,"expanded":false,"name":"Stone Cave","order":5,"parentId":0,"scrollX":1638,"scrollY":932},
 {"id":4,"expanded":false,"name":"Inn 1F","order":3,"parentId":2,"scrollX":1404,"scrollY":798.8571428571428},
-{"id":5,"expanded":true,"name":"Ending","order":6,"parentId":0,"scrollX":1404,"scrollY":798.8571428571428},
-{"id":6,"expanded":false,"name":"???","order":4,"parentId":2,"scrollX":1228.5,"scrollY":699},
-{"id":7,"expanded":false,"name":"South Cave","order":7,"parentId":0,"scrollX":1404,"scrollY":798.8571428571428}
+{"id":5,"expanded":true,"name":"Ending","order":6,"parentId":0,"scrollX":1638,"scrollY":932},
+{"id":6,"expanded":false,"name":"???","order":4,"parentId":2,"scrollX":1638,"scrollY":932},
+{"id":7,"expanded":false,"name":"South Maze","order":7,"parentId":0,"scrollX":1622,"scrollY":932}
 ]
