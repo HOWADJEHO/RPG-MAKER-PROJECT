@@ -6,5 +6,5 @@ null,
 {"id":4,"expanded":false,"name":"Inn 1F","order":3,"parentId":2,"scrollX":1404,"scrollY":798.8571428571428},
 {"id":5,"expanded":true,"name":"Ending","order":6,"parentId":0,"scrollX":1638,"scrollY":932},
 {"id":6,"expanded":false,"name":"???","order":4,"parentId":2,"scrollX":1638,"scrollY":932},
-{"id":7,"expanded":false,"name":"South Maze","order":7,"parentId":0,"scrollX":1622,"scrollY":932}
+{"id":7,"expanded":true,"name":"South Maze","order":7,"parentId":0,"scrollX":1622,"scrollY":932}
 ]
