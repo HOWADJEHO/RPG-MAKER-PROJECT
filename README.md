@@ -19,3 +19,5 @@ A ce propos 2.0 : POUR GARDER SES SAVES ==> re-clonez le repo, puis remplacer to
 Pour toutes autres questions, consultez-moi directement par Teams, Discord, ou venez me voir directement.
 
 Je vous invite vivement à me transmettre vos impressions et remarques, positives comme négatives !
+
+BLOQUE ? ==> demandez-moi également !
