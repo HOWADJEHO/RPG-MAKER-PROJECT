@@ -4,5 +4,7 @@ null,
 {"id":2,"battlerName":"Martial_Artist","characterIndex":0,"characterName":"Martial_Artist","classId":4,"equips":[6,1,2,3,0],"faceIndex":0,"faceName":"Martial_Artist","traits":[],"initialLevel":1,"maxLevel":99,"name":"Liaka","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"Mage","characterIndex":0,"characterName":"Mage","classId":2,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Mage","traits":[],"initialLevel":1,"maxLevel":99,"name":"Einna","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Priest","characterIndex":0,"characterName":"Priest","classId":3,"equips":[5,0,2,3,4],"faceIndex":0,"faceName":"Priest","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"brokenchar","characterIndex":0,"characterName":"brokenchar","classId":5,"equips":[7,1,2,3,4],"faceIndex":0,"faceName":"brokenchar","traits":[],"initialLevel":1,"maxLevel":1,"name":"???","nickname":"","note":"","profile":""}
+{"id":5,"battlerName":"brokenchar","characterIndex":0,"characterName":"brokenchar","classId":5,"equips":[7,1,2,3,4],"faceIndex":0,"faceName":"brokenchar","traits":[],"initialLevel":1,"maxLevel":1,"name":"???","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"swordman","characterIndex":0,"characterName":"swordman","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"swordman","traits":[],"initialLevel":24,"maxLevel":99,"name":"Darn","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"lornat","characterIndex":0,"characterName":"Lornat","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Lornat","traits":[],"initialLevel":24,"maxLevel":99,"name":"Lornat","nickname":"","note":"","profile":""}
 ]
