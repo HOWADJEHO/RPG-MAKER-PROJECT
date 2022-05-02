@@ -19,6 +19,6 @@ null,
 {"id":17,"expanded":false,"name":"Village House 2F","order":8,"parentId":2,"scrollX":528.3333333333334,"scrollY":486.3333333333333},
 {"id":18,"expanded":false,"name":"Inn 2F","order":6,"parentId":2,"scrollX":3931.2,"scrollY":2138.4},
 {"id":19,"expanded":false,"name":"Lava Cave","order":18,"parentId":1,"scrollX":3718.6666666666665,"scrollY":2234.6666666666665},
-{"id":20,"expanded":true,"name":"Floating Temple","order":20,"parentId":0,"scrollX":811,"scrollY":670},
+{"id":20,"expanded":true,"name":"Floating Temple","order":20,"parentId":0,"scrollX":811,"scrollY":690},
 {"id":21,"expanded":false,"name":"Floating Temple (inside)","order":21,"parentId":20,"scrollX":1109,"scrollY":790}
 ]
