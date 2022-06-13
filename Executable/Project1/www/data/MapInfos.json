@@ -22,5 +22,5 @@ null,
 {"id":20,"expanded":true,"name":"Floating Temple","order":20,"parentId":0,"scrollX":1078.6666666666667,"scrollY":639.3333333333334},
 {"id":21,"expanded":false,"name":"Floating Temple 1F","order":21,"parentId":20,"scrollX":1089.3333333333333,"scrollY":584.6666666666666},
 {"id":22,"expanded":false,"name":"Floating Temple 2F","order":22,"parentId":20,"scrollX":1089.3333333333333,"scrollY":584.6666666666666},
-{"id":23,"expanded":false,"name":"BETATEST","order":23,"parentId":0,"scrollX":1089.3333333333333,"scrollY":584.6666666666666}
+{"id":23,"expanded":false,"name":"BETATEST","order":23,"parentId":0,"scrollX":811,"scrollY":466}
 ]
