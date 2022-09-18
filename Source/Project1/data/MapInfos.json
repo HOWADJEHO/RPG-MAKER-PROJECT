@@ -27,7 +27,7 @@ null,
 {"id":25,"expanded":true,"name":"Mountain Village","order":26,"parentId":28,"scrollX":1622,"scrollY":1180},
 {"id":26,"expanded":true,"name":"Ruins","order":28,"parentId":28,"scrollX":1638,"scrollY":932},
 {"id":27,"expanded":true,"name":"Swamp","order":27,"parentId":28,"scrollX":1622,"scrollY":988},
-{"id":28,"expanded":true,"name":"Lost Forest","order":24,"parentId":0,"scrollX":1622,"scrollY":932},
+{"id":28,"expanded":true,"name":"Lost Forest","order":24,"parentId":0,"scrollX":1622,"scrollY":1244},
 {"id":29,"expanded":false,"name":"Awakening Room","order":31,"parentId":28,"scrollX":819,"scrollY":466},
 {"id":30,"expanded":true,"name":"Waterfall Forest","order":25,"parentId":28,"scrollX":1622,"scrollY":1468},
 {"id":31,"expanded":false,"name":"Cursed Cave","order":30,"parentId":24,"scrollX":1622,"scrollY":988}
