@@ -30,5 +30,5 @@ null,
 {"id":28,"expanded":true,"name":"Lost Forest","order":24,"parentId":0,"scrollX":1622,"scrollY":1652},
 {"id":29,"expanded":false,"name":"Awakening Room","order":31,"parentId":28,"scrollX":819,"scrollY":466},
 {"id":30,"expanded":true,"name":"Waterfall Forest","order":25,"parentId":28,"scrollX":1622,"scrollY":1468},
-{"id":31,"expanded":false,"name":"Cursed Cave","order":30,"parentId":24,"scrollX":1622,"scrollY":932}
+{"id":31,"expanded":false,"name":"Cursed Cave","order":30,"parentId":24,"scrollX":1622,"scrollY":988}
 ]
