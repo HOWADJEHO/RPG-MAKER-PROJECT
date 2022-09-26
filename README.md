@@ -12,7 +12,9 @@ Fonctionnalités "hors-jeu" :
 - Ne vous faites pas avoir par les menus, il faut d'abord sélectionner "Buy" ou "Sell" pour pouvoir avoir la liste des objets affichée.
 - Même chose pour donner un nom aux personnages, il faut appuyer deux fois sur Entrée (valider le texte, puis valider le nom)
   A ce propos, le premier personnage dont vous donnez le nom N'EST PAS VOTRE PERSONNAGE PRINCIPAL ce qui permet une dernière chose ...
-- LISEZ BIEN LES TEXTES. Le jeu n'est pas rempli de texte, et la plupart des PNJ vous guide vers la suite ou explique des détails importants.
+- LISEZ BIEN LES TEXTES. Le jeu n'est pas rempli de texte, et la plupart des PNJ vous guident vers la suite ou explique des détails importants.
+  A ce propos, n'hésitez pas à remonter des erreurs dans les textes, que ce soit des phrases mal dites, des mots manquants, des fautes.
+  Tout le jeu est en ANGLAIS.
   
 NOTES IMPORTANTES :
 Je fais assez régulièrement des push. Il peut y avoir des casses au niveau de vos saves selon les modifications que je fais (notamment sur des Events).
