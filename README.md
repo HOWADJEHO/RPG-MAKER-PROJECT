@@ -1,6 +1,8 @@
 Explications en français :
 
 Tout d'abord, merci de tester mon jeu !
+Il est à noté que pour y jouer, vous devez démarrer l'exécutable dans le dossier ... executable.
+Il est pour le moment uniquement disponible sur Windows.
   
 Fonctionnalités "hors-jeu" :
 - Rester appuyé sur Ctrl permet d'accélerer les animations en combat, CE QUI EST UTILE SURTOUT PENDANT LE FARMING
