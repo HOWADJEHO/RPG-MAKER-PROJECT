@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Filed Map","order":1,"parentId":0,"scrollX":980.4,"scrollY":526.1999999999999},
-{"id":2,"expanded":true,"name":"Normal Town","order":2,"parentId":1,"scrollX":1622,"scrollY":1006},
+{"id":2,"expanded":true,"name":"Normal Town","order":2,"parentId":1,"scrollX":1786.909090909091,"scrollY":972},
 {"id":3,"expanded":false,"name":"Stone Cave","order":17,"parentId":1,"scrollX":1035.2727272727273,"scrollY":700.3636363636364},
 {"id":4,"expanded":false,"name":"Inn 1F","order":10,"parentId":2,"scrollX":982.8,"scrollY":559.1999999999999},
 {"id":5,"expanded":true,"name":"Ending","order":19,"parentId":0,"scrollX":3268,"scrollY":1754},
@@ -33,7 +33,7 @@ null,
 {"id":31,"expanded":false,"name":"Cursed Cave","order":33,"parentId":24,"scrollX":1769.4545454545455,"scrollY":987.2727272727274},
 {"id":32,"expanded":false,"name":"Ruins 1F","order":29,"parentId":26,"scrollX":1638,"scrollY":932},
 {"id":33,"expanded":false,"name":"Ruins 2F","order":30,"parentId":26,"scrollX":1786.909090909091,"scrollY":972},
-{"id":34,"expanded":false,"name":"Room Of The Chosen One","order":31,"parentId":26,"scrollX":1638,"scrollY":914},
+{"id":34,"expanded":false,"name":"Room Of The Chosen One","order":31,"parentId":26,"scrollX":1786.909090909091,"scrollY":972},
 {"id":35,"expanded":true,"name":"(2)Floating Temple","order":35,"parentId":0,"scrollX":1638,"scrollY":914},
 {"id":36,"expanded":false,"name":"(2)Floating Temple 1F","order":36,"parentId":35,"scrollX":1638,"scrollY":914},
 {"id":37,"expanded":false,"name":"(2)Floating Temple 2F","order":37,"parentId":35,"scrollX":1638,"scrollY":914}
