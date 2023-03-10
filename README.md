@@ -5,7 +5,7 @@ Il est pour le moment uniquement disponible sur Windows à cause de la taille da
 Fonctionnalités "hors-jeu" :
 - Rester appuyé sur Ctrl permet d'accélerer les animations en combat, CE QUI EST UTILE SURTOUT PENDANT LE FARMING
 - Appuyer sur Echap permet de revenir en arrière, mais également, en combat, d'utiliser le mode "auto" (lance une attaque de base sur l'ennemi
-  en vie avec le moins d'HP avce toute l'équipe), d'essayer de fuir, ou, très utile, d'accéder au menu "Status" permettant de voir tous les effets dont profitent ou souffrent vos personnages, en plus d'une explication sur leurs effets (utile quand votre personnage est sujet à trop d'effets différents qui ne s'affichent plus correctement sur la case de personnage).
+  en vie avec le moins d'HP avec toute l'équipe), d'essayer de fuir, ou, très utile, d'accéder au menu "Status" permettant de voir tous les effets dont profitent ou souffrent vos personnages, en plus d'une explication sur leurs effets (utile quand votre personnage est sujet à trop d'effets différents qui ne s'affichent plus correctement sur la case de personnage).
 - Vous pouvez changer de touches, pour cela appuyez sur Echap, puis allez dans "Options". Il est aussi possible de jouer avec une manette.
   /!\ NOTEZ QUE GAGNER UN NOUVEAU PERSONNAGE DANS L'EQUIPE RESET LES TOUCHES
 - Ne vous faites pas avoir par les menus, il faut d'abord sélectionner "Buy" ou "Sell" pour pouvoir voir la liste des objets s'affichée.
@@ -24,7 +24,7 @@ Pour toutes autres questions, consultez-moi directement par Teams, Discord, ou v
 
 Je vous invite vivement à me transmettre vos impressions et remarques, positives comme négatives !
 
-BLOQUE ? ==> demandez-moi également !
+BLOQUEZ ? ==> demandez-moi également !
 
 Bonus BETA-TESTING :
 Vous pouvez me demander d'intégrer un élément dans le jeu pour marquer votre participation !
